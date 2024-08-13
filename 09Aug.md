@@ -2,7 +2,7 @@
 title: Introduction to Cognitive Science
 subtitle: |
           | Monsoon 2024, IIIT Hyderabad
-          | 09 August, Friday (Lecture 3)
+          | 09 August, Friday (Lecture 4)
 author: Taught by Prof. Vishnu Sreekumar
 ---
 
